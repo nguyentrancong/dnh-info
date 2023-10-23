@@ -1,0 +1,15 @@
+INSERT INTO `option_value_content` (`option_value_id`, `language_id`, `option_id`, `name`) VALUES
+(1,	1,	2,	'Checkbox 1'),
+(2,	1,	2,	'Checkbox 2'),
+(3,	1,	1,	'Medium'),
+(4,	1,	1,	'Small'),
+(5,	1,	5,	'Red'),
+(6,	1,	5,	'Blue'),
+(7,	1,	5,	'Green'),
+(8,	1,	5,	'Yellow'),
+(9,	1,	1,	'Large'),
+(10,	1,	2,	'Checkbox 3'),
+(11,	1,	2,	'Checkbox 4'),
+(12,	1,	11,	'Small'),
+(13,	1,	11,	'Medium'),
+(14,	1,	11,	'Large');
